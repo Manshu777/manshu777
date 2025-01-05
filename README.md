@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 🔭 Currently Working On<br>Building modern web and mobile applications using cutting-edge technologies.<br><br>👯 Looking to Collaborate On<br>Open-source projects, innovative app ideas, and scalable full-stack solutions.<br><br>🤝 Looking for Help With<br>Exploring advanced topics in performance optimization, scalable architectures, and AI integrations.<br><br>🌱 Currently Learning<br>Advanced system design<br>Machine learning for web development<br>💬 Ask Me About<br>App development, frontend design with Tailwind CSS, backend APIs, or scaling web apps.<br><br>⚡ Fun Fact<br>I write clean code faster than I can make coffee ☕.<br><br>
 
 
